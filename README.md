@@ -6,3 +6,5 @@
 ### next.js × WebGLの練習リポジトリ
 [webgl_nextjs_practice](https://github.com/yuta-0331/webgl_nextjs_practice)
 
+### 毎日の学習用リポジトリ
+[til](https://github.com/yuta-0331/today-i-learned)
