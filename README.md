@@ -23,8 +23,9 @@ width="45%" src="https://github-readme-stats.vercel.app/api?username=yuta-0331&t
 - three.js等のライブラリを使わない、生のWebGLを学習<br/>
 [next.js × WebGLの練習リポジトリ](https://github.com/yuta-0331/webgl_nextjs_practice)
 
-### 毎日ソースコードを書いてます
-[Today I learned](https://github.com/yuta-0331/today-i-learned)
+### Today I learned
+- 2023/01/04から毎日ソースコードを書いてます
+[](https://github.com/yuta-0331/today-i-learned)
 <p align="left">
   <img alt="github" src="https://github-contributions-api.deno.dev/yuta-0331.svg" />
 </p>
