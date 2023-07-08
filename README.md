@@ -24,7 +24,7 @@
 
 ### Today I learned
 - 2023/01/04から毎日ソースコードを書いてます
-[](https://github.com/yuta-0331/today-i-learned)
+[til リポジトリ](https://github.com/yuta-0331/today-i-learned)
 <p align="left">
   <img alt="github" src="https://github-contributions-api.deno.dev/yuta-0331.svg" />
 </p>
