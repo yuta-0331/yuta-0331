@@ -9,12 +9,19 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> </a>  </p>
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuta-0331&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yuta-0331&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="180px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuta-0331&layout=compact&show_icons=true&theme=light" />　<img alt="github stats" height="180px" 
+width="45%" src="https://github-readme-stats.vercel.app/api?username=yuta-0331&theme=light&show_icons=ture" />
 </p>
 
-### [ブログソースコード](https://github.com/yuta-0331/my_blog)
+---------------------
 
-### [next.js × WebGLの練習リポジトリ](https://github.com/yuta-0331/webgl_nextjs_practice)
+### ポートフォリオ（自作ブログ）を作成中
+- バックエンドからフロントまで、JavaScript(TypeScript)で実装 
+[ソースコード](https://github.com/yuta-0331/my_blog)
 
-### [毎日の学習用リポジトリ](https://github.com/yuta-0331/today-i-learned)
+### WebGLに興味あり
+- three.js等のライブラリを使わない、生のWebGLを学習
+[next.js × WebGLの練習リポジトリ](https://github.com/yuta-0331/webgl_nextjs_practice)
+
+### 毎日ソースコードを書いてます
+[Today I learned](https://github.com/yuta-0331/today-i-learned)
