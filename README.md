@@ -16,15 +16,15 @@
 
 ### ポートフォリオ（自作ブログ）を作成中
 - バックエンドからフロントまで、JavaScript(TypeScript)で実装<br/>
-[ソースコード](https://github.com/yuta-0331/my_blog)
+- [ソースコード](https://github.com/yuta-0331/my_blog)
 
 ### WebGLに興味あり
 - three.js等のライブラリを使わない、生のWebGLを学習<br/>
-[next.js × WebGLの練習リポジトリ](https://github.com/yuta-0331/webgl_nextjs_practice)
+- [next.js × WebGLの練習リポジトリ](https://github.com/yuta-0331/webgl_nextjs_practice)
 
 ### Today I learned
 - 2023/01/04から毎日ソースコードを書いてます<br/>
-[til リポジトリ](https://github.com/yuta-0331/today-i-learned)
+- [til リポジトリ](https://github.com/yuta-0331/today-i-learned)
 <p align="left">
   <img alt="github" src="https://github-contributions-api.deno.dev/yuta-0331.svg" />
 </p>
