@@ -16,11 +16,11 @@ width="45%" src="https://github-readme-stats.vercel.app/api?username=yuta-0331&t
 ---------------------
 
 ### ポートフォリオ（自作ブログ）を作成中
-- バックエンドからフロントまで、JavaScript(TypeScript)で実装 
+- バックエンドからフロントまで、JavaScript(TypeScript)で実装<br/>
 [ソースコード](https://github.com/yuta-0331/my_blog)
 
 ### WebGLに興味あり
-- three.js等のライブラリを使わない、生のWebGLを学習
+- three.js等のライブラリを使わない、生のWebGLを学習<br/>
 [next.js × WebGLの練習リポジトリ](https://github.com/yuta-0331/webgl_nextjs_practice)
 
 ### 毎日ソースコードを書いてます
