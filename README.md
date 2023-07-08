@@ -23,7 +23,7 @@
 [next.js × WebGLの練習リポジトリ](https://github.com/yuta-0331/webgl_nextjs_practice)
 
 ### Today I learned
-- 2023/01/04から毎日ソースコードを書いてます
+- 2023/01/04から毎日ソースコードを書いてます<br/>
 [til リポジトリ](https://github.com/yuta-0331/today-i-learned)
 <p align="left">
   <img alt="github" src="https://github-contributions-api.deno.dev/yuta-0331.svg" />
