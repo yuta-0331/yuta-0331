@@ -28,3 +28,5 @@
 <p align="left">
   <img alt="github" src="https://github-contributions-api.deno.dev/yuta-0331.svg" />
 </p>
+
+#### wakatime free版導入しました（2023/07/08）
