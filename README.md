@@ -18,7 +18,7 @@
 - バックエンドからフロントまで、JavaScript(TypeScript)で実装<br/>
 - [ソースコード](https://github.com/yuta-0331/my_blog)
 
-### WebGLに興味あり
+### WebGL
 - three.js等のライブラリを使わない、生のWebGLを学習<br/>
 - [next.js × WebGLの練習リポジトリ](https://github.com/yuta-0331/webgl_nextjs_practice)
 
@@ -29,4 +29,4 @@
   <img alt="github" src="https://github-contributions-api.deno.dev/yuta-0331.svg" />
 </p>
 
-#### wakatime free版導入しました（2023/07/08）
+#### WakaTime free版導入しました（2023/07/08）
